@@ -35,7 +35,7 @@ export const aluminumBottle = {
   id: 2,
   type: "aluminum",
   mobileUIDef: false,
-  specialWord: "eco-friendly on-the-go hydration.",
+  specialWord: "",
   icon: aluminumBottleIcon,
   iconDescription:
     "High-quality aluminum combines strength, corrosion resistance, and light weight, making it ideal for maintaining temperature",
